@@ -22,7 +22,7 @@ sudo apt-get update
 
 
 # run the model downloader
-##./download-models.sh
+./download-models.sh
 
 
 # run the pytorch installer
